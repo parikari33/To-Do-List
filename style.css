@@ -7,7 +7,7 @@
 
 .container{
     min-height: 100vh;
-    background-image: url(images/wp3701496.jpg);
+    background-image: url(wp3701496.jpg);
     background-position: center;
     background-repeat: no-repeat;
     padding: 10px;
@@ -87,7 +87,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(images/checked.png);
+    background-image: url(checked.png);
     background-size: cover;
     background-position: center;
     top: 8px;
@@ -101,7 +101,7 @@ ul li.checked{
 
 ul li.checked::before{
     color: #666;
-    background-image: url(images/radio.png);
+    background-image: url(radio.png);
 }
 
 ul li span{
